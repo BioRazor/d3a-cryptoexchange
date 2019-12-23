@@ -1,4 +1,4 @@
-# platzi-exchange
+# d3a-cryptoexchange
 
 ## Project setup
 ```
